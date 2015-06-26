@@ -1,0 +1,340 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.25)  26 JUN 2015 13:21
+entering extended mode
+**C:/Users/saintAllard.setup-THINK/Documents/GitHub/pjgrange.github.io/cvGrange
+Jun2015.tex
+
+(C:/Users/saintAllard.setup-THINK/Documents/GitHub/pjgrange.github.io/cvGrangeJ
+un2015.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\koma-script\s
+crartcl.cls
+Document Class: scrartcl 2012/07/29 v3.11b KOMA-Script document class (article)
+
+
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\koma-script\s
+crkbase.sty
+Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\koma-script\s
+crbase.sty
+Package: scrbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\graphics\keyv
+al.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\koma-script\s
+crlfile.sty
+Package: scrlfile 2012/06/15 v3.12 KOMA-Script package (loading files)
+
+Package scrlfile, 2012/06/15 v3.12 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+)))
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\koma-script\t
+ocbasic.sty
+Package: tocbasic 2012/04/04 v3.10b KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 115.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 116.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 117.
+Package scrartcl Info: You've used obsolete option `12pt'.
+(scrartcl)             \KOMAExecuteOptions{fontsize=12pt} will be
+(scrartcl)             used instead.
+(scrartcl)             You may simply replace `12pt'
+(scrartcl)             by `fontsize=12pt'.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 1267.
+
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\koma-script\s
+crsize12pt.clo
+File: scrsize12pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (12p
+t)
+)
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\koma-script\t
+ypearea.sty
+Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
+
+Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1213.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count86
+\c@table=\count87
+\bibindent=\dimen102
+)
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\geometry\geom
+etry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\generic\oberdiek\if
+pdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\generic\oberdiek\if
+vtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\generic\ifxetex\ifx
+etex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\geometry\geom
+etry.cfg))
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\soul\soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks16
+\SOUL@lasttoken=\toks17
+\SOUL@cmds=\toks18
+\SOUL@buffer=\toks19
+\SOUL@token=\toks20
+\SOUL@spaceskip=\skip47
+\SOUL@ttwidth=\dimen111
+\SOUL@uldp=\dimen112
+\SOUL@ulht=\dimen113
+)
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\koma-script\s
+crpage2.sty
+Package: scrpage2 2010/04/22 v2.5 LaTeX2e KOMA-Script package
+LaTeX Info: Redefining \pagemark on input line 176.
+)
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\titlesec\titl
+esec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box27
+\beforetitleunit=\skip48
+\aftertitleunit=\skip49
+\ttl@plus=\dimen114
+\ttl@minus=\dimen115
+\ttl@toksa=\toks21
+\titlewidth=\dimen116
+\titlewidthlast=\dimen117
+\titlewidthfirst=\dimen118
+)
+(C:\Users\saintAllard.setup-THINK\Desktop\installMikTeX\tex\latex\marvosym\marv
+osym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(C:\Users\saintAllard.setup-THINK\Documents\GitHub\pjgrange.github.io\cvGrangeJ
+un2015.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(79.49744pt, 438.513pt, 79.49744pt)
+* v-part:(T,H,B)=(79.49744pt, 686.05197pt, 79.49744pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=450.9652pt
+* \textheight=654.04372pt
+* \oddsidemargin=7.22745pt
+* \evensidemargin=7.22745pt
+* \topmargin=-32.64755pt
+* \headheight=18.125pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=50.75pt
+* \marginparwidth=49.79233pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--35
+
+ []
+
+
+Overfull \hbox (24.37006pt too wide) in paragraph at lines 42--47
+\OT1/cmr/m/n/12 Courses taught: Quan-tum Me-chan-ics (MTH311), Carte-sian Ten-s
+ors (MTH308). 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Overfull \hbox (31.38708pt too wide) in paragraph at lines 89--90
+[]\OT1/cmr/m/n/12 Refereed pa-pers for the \OT1/cmr/bx/n/12 Jour-nal of High En
+-ergy Physics\OT1/cmr/m/n/12 , [],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+[1
+
+{C:/Users/saintAllard.setup-THINK/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex
+.map}]
+Missing character: There is no â in font cmti12!
+Missing character: There is no € in font cmti12!
+Missing character: There is no “ in font cmti12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+
+Overfull \hbox (12.28993pt too wide) in paragraph at lines 191--193
+[]\OT1/cmr/bx/n/12 Languages\OT1/cmr/m/n/12 : French (mother tongue), En-glish,
+ Ger-man, el-e-men-tary Man-darin []. 
+ []
+
+
+Overfull \hbox (1.49228pt too wide) in paragraph at lines 193--194
+[]\OT1/cmr/bx/n/12 Extra-scientific in-ter-ests\OT1/cmr/m/n/12 : mid-dle and lo
+ng-distance run-ning (2009 Paris Marathon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+[3]
+(C:\Users\saintAllard.setup-THINK\Documents\GitHub\pjgrange.github.io\cvGrangeJ
+un2015.aux) ) 
+Here is how much of TeX's memory you used:
+ 2753 strings out of 493921
+ 40479 string characters out of 3136400
+ 129427 words of memory out of 3000000
+ 6060 multiletter control sequences out of 15000+200000
+ 10794 words of font info for 38 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 38i,9n,47p,398b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/saintAllard.setup-THINK/Desktop/installMikTeX/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/saintAllard.setup-THINK/Desktop/insta
+llMikTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/saintAllard.setup
+-THINK/Desktop/installMikTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/User
+s/saintAllard.setup-THINK/Desktop/installMikTeX/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><C:/Users/saintAllard.setup-THINK/Desktop/installMikTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Users/saintAllard.setup-THINK/Desktop/installMi
+kTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/saintAllard.setup-THIN
+K/Desktop/installMikTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/sai
+ntAllard.setup-THINK/Desktop/installMikTeX/fonts/type1/public/amsfonts/cm/cmtt1
+0.pfb><C:/Users/saintAllard.setup-THINK/Desktop/installMikTeX/fonts/type1/publi
+c/amsfonts/cm/cmtt12.pfb>
+Output written on cvGrangeJun2015.pdf (3 pages, 129924 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
